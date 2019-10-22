@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aplicacion</string>
+    <string name="texto">Mi pimer app</string>
+    <string name="texto_editText_pasar_parametros">Escriba una frase:</string>
+    <string name="texto_button_pasar_parametros">PASAR PARAMETROS</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_guardar">GUARDAR</string>
+    <string name="button_buscar">BUSCAR</string>
+    <string name="button_pasar_parametros">PASAR PARAMETROS</string>
+</resources>
